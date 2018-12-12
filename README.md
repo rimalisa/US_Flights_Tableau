@@ -49,19 +49,6 @@ because it is a comparison between the 2 years.
 And finally, I corrected the misspelling on the final thoughts slide
 of the story.
 
-**Feedback** :
-Ilo
-Hi Rimalisa, I have chosen flight files as well, therefore it has
-been interesting to see your result. The story is good and I like
-your dashboard and the final insights panel. Some small aspects I
-mentioned already by other classmates. The language settings
-are a mixture of English and my local one. Means not everything
-is visible in English and therefore hard to read (e.g. the diagram
-labels or names). Sometimes it is a mixture of different
-languages. And your bar charts would be improved being sorted
-(e.d. descending order). As a small final topic, on your last page
-the last sentence there are misspellings. Nevertheless, have
-success :slightly_smiling_face: Ilona
 
 **Resources** :
 
