@@ -2,13 +2,11 @@ Rim Issaad Tableau Flight performance project
 
 Link to the first version of the story :
 
-https://public.tableau.com/profile/rima8121#!/vizhome/
-Flight_performance2000-2008V1/Story1?publish=yes
+https://public.tableau.com/profile/rima8121#!/vizhome/Flight_performance2000-2008V1/Story1?publish=yes
 
 Link to the last version of the story :
 
-https://public.tableau.com/profile/rima8121#!/vizhome/
-Flight_performance2000-2008V2/Story1?publish=yes
+https://public.tableau.com/profile/rima8121#!/vizhome/Flight_performance2000-2008V2/Story1?publish=yes
 
 **Summary** :
 In this tableau story, my main focus was on the departure delays
